@@ -188,15 +188,6 @@ pm_system.save_models('./your_models')
 - **Explainable AI**: Model interpretability features
 - **Multi-sensor Fusion**: Enhanced sensor data integration
 
-## 📚 Research Reference
-
-This implementation is based on the research paper:
-
-**"AI-Driven Predictive Maintenance for Industrial Equipment: Enhancing Operational Efficiency through Machine Learning"**
-
-*Authors: Dushmanta Madhab Kalita, Dr. Kaushik Das*  
-*Affiliation: Dibrugarh University Institute of Engineering and Technology*
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
@@ -205,12 +196,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Original research by Kalita & Das
-- SECOM dataset contributors
-- Industrial IoT community
-- Open-source machine learning libraries
 
 ## 📞 Support
 
